@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning more about system design and algorithms.
 - 💡 Planning to share some cool projects here soon—stay tuned!
 - 🤝 I’m open to collaboration opportunities and learning from others in the tech community.
-- 📫 How to reach me: suminchoe[at]gmail[dot]com
+- 📫 How to reach me: suminchoe@gmail.com
 
 ## 🛠️ Skills
 - Languages: `C`, `Java`, `Python`
